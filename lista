@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 ,SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0sw1je4dml1k3scq0tft60b43l6tx9x7/chunklist_w276552147.m3u8
+#EXTINF:-1 ,RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w861659689.m3u8
+#EXTINF:-1 ,REDE TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1 ,Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cartoonnetwork_511a418e_d15eb91c60e96b71aca16f10df6aa94773a6fceb/playlist.m3u8?jsf=YTozOntpOjA7czozOToiMjgwNDo0MjBjOjEwMDQ6NmIwMDplYjg3OjE1Zjc6NWUxYToxOGYzIjtpOjE7czo2NjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgcnY6NzguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC83OC4wIjtpOjI7aToxNjE3NTIwMzQzO30%3D 
+#EXTINF:-1 ,Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w990635383.m3u8
+#EXTINF:-1 ,Kronos Filmes
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w1898797515.m3u8
+#EXTINF:-1 ,TV ANIME
+https://stmv1.srvif.com/animetv/animetv/chunklist_w139751903.m3u8
+#EXTINF:-1 ,TV SERIES
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w1851018013.m3u8
+#EXTINF:-1 ,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#ENTINF:-1 ,TV BRASIL
+https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FnKSn_0T0Mc)r(fVR9ug)a(wI3ELw)p(d(2xc)k(q8Y)m(QOkke7uXxigd0XRatUhS_A)n(a(1Q0hwA)s(MYQ)'a(KoHjtA)s(hFM)))s(s(Vuc)b(kzCw97TbCFzwy8jv7ezS2eE3u6t7M36wC3UKGDlA1AN6EEbTO6Djxk59uPWFa1yjINIZ-FqUuYQNRFXZwA)'s(_Bs)b(8_aMynK2bGbeKVyKs8sf4DF_WchKHaMNEe99SSaheQNVFFMhZQ9mNDwLityb-TCzoulwqKa17HY-P-luQvz5jx1M9crRUr6MI1YoDbcn)'s(NlI)b(Dk9Fbuxi))m(0))/1_index.m3u8
+#EXTINF:-1 ,RETRO
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1827984440.m3u8  
+#EXTINF:-1 ,Latina
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w324248516.m3u8
+#EXTINF:-1 ,Classic TV
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:-1 ,WEB TV
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1668312327.m3u8
+#EXTINF:-1 ,Musicas
+https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w924345960.m3u8
+#EXTINF:-1 ,ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1888806556.m3u8
+#EXTINF:-1 ,YEEAAH TV
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist.m3u8
+ 
